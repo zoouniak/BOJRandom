@@ -7,4 +7,18 @@
 
 사용법 ez합니다.   
 근데 아직 1페이지밖에.. 안 들고옴 수정예정   
-![image](https://github.com/zoouniak/BOJRandom/assets/88364328/22da7e83-9e68-47b8-a28e-585f9b55033b)
+![image](https://github.com/zoouniak/BOJRandom/assets/88364328/22da7e83-9e68-47b8-a28e-585f9b55033b)   
+
+# 백준 알고리즘 별 번호
+# 그리디 33 
+#구현 102 
+#브루트포스 125
+#그래프탐색 11
+# 정렬 97 
+#너비우선탐색 126 
+#깊이우선탐색 127
+# 데이크스트라 22 
+#백트래킹 5 
+#재귀 62 
+#dp 25 
+#분할정복 24

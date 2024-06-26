@@ -5,6 +5,23 @@
 랜덤하게 내가 원하는 알고리즘 문제를 풀고 싶었어요   
 
 사용법  
+~~~
+git clone https://github.com/zoouniak/BOJRandom.git
+~~~
+~~~
+cd BOJRandom
+~~~
+~~~
+pip install requests   
+~~~
+~~~
+pip install beautifulSoup  
+~~~
+and then  
+
+run main.py
+
+
 ![image](https://github.com/zoouniak/BOJRandom/assets/88364328/22da7e83-9e68-47b8-a28e-585f9b55033b)   
 
 # 백준 알고리즘 별 번호
